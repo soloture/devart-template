@@ -1,5 +1,5 @@
-# Project Title
-Twitter Noise Machine
+# Twitter Noise Machine
+
 
 ## Authors
 - Sangwoo Han(github : soloture)
