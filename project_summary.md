@@ -1,33 +1,13 @@
 # Project Title
-Insert the name of your project
+Twitter Noise Machine
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Sangwoo Han(github : soloture)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Twitter Noise Machine is an attempt to shape data space entirely distinct from machine side structure, focusing instead on observations of user side phenomena, starting with the question of where digital data exists. An answer to the question can be various, but generally, digital data is considered to be bound to physical devices, and our relationship with data has been established by design and technology largely based on this common idea. However, in a specific dataset such as geographic coordinate system, the existence of data can be defined differently. Any dataset associated with geographical coordinate system can have geographical presence in the same way buildings, trees, or mountains with high degree of internal dynamics, and becomes to form an alternative environment. Thus, we sense the presence of data as environmental elements. Twitter Noise Machine explore the meaning of ‘feeling’ the presence of data instead of ‘reading’ it, and the impacts of it, by creating a specific acoustic environment consists of sonified data. Twitter Noise Machine turn Twitter entries that have certain GPS values close to a certain location into "noise" with automated real time process, so that it creates a space where the wall between the virtual space and the real space collapse. 
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+[Simple OSC] (http://opensoundcontrol.org/implementation/python-simple-osc "Simple OSC")
+[Python-Twitter] (https://github.com/bear/python-twitter "Python-Twitter")
 
-[Example Link](http://www.google.com "Example Link")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ

@@ -1,16 +1,22 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Open Sound Control",
+						"NSSpeechSynthesizer",
+						"Python-Twitter",
         ],
         "platforms": [
-            "insert platforms"
+            "OS X",
+						
         ],
         "toolkits": [
-            "insert toolkits"
+            "Twitter","Max/MSP",
+						"Ableton Live", "Python"
         ]
     },
     "themes": [
-        "insert themes"
+        "Sonification",
+				"Future Landscape",
+				"Data environment"
     ]
 }
