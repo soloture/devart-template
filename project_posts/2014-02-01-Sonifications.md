@@ -1,0 +1,4 @@
+Since Twitter Noise Machine is aiming to reconstruct the concept of data space from the user side, I wanted the experience to be extremely individual. What would ambient sound of an alternative digital space sound like? It was important to recreate a similar acoustic experience that sounds informative, but actually is sensible and incomprehensible. These are the first prototypes, 'sounds like language but not really a language'. Produced through a Python script and Ableton Live.
+
+https://soundcloud.com/soloture/twitter-noise-machine-ver-idea
+https://soundcloud.com/soloture/muffledbypitchcontrol
